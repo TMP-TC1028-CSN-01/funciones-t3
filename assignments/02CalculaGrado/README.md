@@ -1,6 +1,6 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Hello World!
-Básicos-Hello World
+# 01CalculaGrado!
+Funciones-CalculaGrado
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
 
